@@ -21,6 +21,6 @@ const ProductCard = ({ product }) => {
       <Button buttonType='inverted' onClick={addProductToCart} >Add to card</Button>
     </div>
   );
-}
+};
 
 export default ProductCard;
