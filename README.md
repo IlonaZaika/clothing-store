@@ -2,7 +2,7 @@
 
 # Clothing store
 
-This project is a course project in [Zero to Mastery](https://zerotomastery.io/) academy that I performed to practice the basic development patterns we learned throughout the course ["Complete React Developer in 2024 (w/ Redux, Hooks, GraphQL): Zero to Mastery"](https://zerotomastery.io/courses/learn-react/).
+This project is a course project in [Zero to Mastery](https://zerotomastery.io/) academy that I performed to practice the development patterns we learned throughout the course ["Complete React Developer in 2024 (w/ Redux, Hooks, GraphQL): Zero to Mastery"](https://zerotomastery.io/courses/learn-react/).
 
 
 ## Technical Details
@@ -45,7 +45,7 @@ Check out the live demo of this project on the [Netlify](https://curious-kheer-f
 
 ## Acknowledgements
 
-I would like to express my gratitude to Andrei Neagoie and Yihua Zhang for his excellent course in the [Zero to Mastery](https://zerotomastery.io/) academy. I've started my React jorney with the best instructors. Thank you a lot! Your passion for codding is impressive and inspiring. 
+I would like to express my gratitude to Andrei Neagoie and Yihua Zhang for their excellent course in the [Zero to Mastery](https://zerotomastery.io/) academy. I've started my React jorney with the best instructors. Thank you a lot! Your passion for codding is impressive and inspiring. 
 
 
 
