@@ -31,7 +31,7 @@ This project is a course project in [Zero to Mastery](https://zerotomastery.io/)
 
 ## Demo
 
-Check out the live demo of this project on the [Netlify](https://curious-kheer-f7b223.netlify.app/).
+Check out the live demo of this project on the [Netlify](https://curious-kheer-f7b223.netlify.app/). https://curious-kheer-f7b223.netlify.app/
 
 
 
